@@ -10,29 +10,29 @@
 	<string>SampleCheckbox</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B6D0FD87-1C3D-4979-8438-0A65D2F26CF9</key>
+		<key>16DCFD2A49B810A7ED58A8B196CAB5C100363D99</key>
 		<string>https://github.com/jorgeSV/UICheckbox.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SampleCheckbox/SampleCheckbox.xcodeproj/project.xcworkspace</string>
+	<string>SampleCheckbox/SampleCheckbox.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B6D0FD87-1C3D-4979-8438-0A65D2F26CF9</key>
+		<key>16DCFD2A49B810A7ED58A8B196CAB5C100363D99</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/jorgeSV/UICheckbox.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B6D0FD87-1C3D-4979-8438-0A65D2F26CF9</string>
+	<string>16DCFD2A49B810A7ED58A8B196CAB5C100363D99</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B6D0FD87-1C3D-4979-8438-0A65D2F26CF9</string>
+			<string>16DCFD2A49B810A7ED58A8B196CAB5C100363D99</string>
 			<key>IDESourceControlWCCName</key>
 			<string>UICheckbox</string>
 		</dict>
