@@ -34,6 +34,6 @@
 @property (nonatomic, strong) NSString *imageNameChecked;
 @property (nonatomic, strong) NSString *imageNameNoChecked;
 
-@property (nonatomic, strong) id<UICheckBoxDelegate>delegate;
+@property (nonatomic, weak) id<UICheckBoxDelegate>delegate;
 
 @end
